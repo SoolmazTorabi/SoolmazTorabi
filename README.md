@@ -1,29 +1,26 @@
-## :sunglasses: I'm Hamed
+## :sunglasses: I'm Soolmaz
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning JavaScript 🤣
 - 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I'm a Gamer
+- ⚡ Fun fact: I'm a cinephile !
 
 <h2>📃 Contact</h2>
 
 <div>   
-    <a href="mailto:IntelligentQuantum@ProtonMail.Com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="IntelligentQuantum-ProtonMail"></a>
-    <a href="https://www.Instagram.com/IntelligentQuantum/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="IntelligentQuantum-Instagram"></a>
-    <a href="https://discord.com/users/550013353171484682" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=F0DB4F" alt="IntelligentQuantum-Discord"></a>
-    <br><br>
-    <img alt="IntelligentQuantum-Discord" src="https://discord.c99.nl/widget/theme-2/550013353171484682.png" />
+    <a href="mailto:SoolmazTorabi@ProtonMail.Com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="SoolmazTorabi-ProtonMail"></a>
+    <a href="https://www.Instagram.com/Sowllz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Sowllz-Instagram"></a>
 </div>
 
 <h2>:label: Github Stats</h2>
 
 <div>
-    <a href="#"><img alt="IntelligentQuantum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntelligentQuantum&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="Sowllz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoolmazTorabi&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
-    <a href="#"><img alt="IntelligentQuantum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelligentQuantum&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="Sowllz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SoolmazTorabi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
-    <a href="#"><img alt="IntelligentQuantum's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=IntelligentQuantum&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="Sowllz's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=SoolmazTorabi&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
     <br>
-    <a href="#"><img alt="IntelligentQuantum's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=intelligentquantum&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a>
+    <a href="#"><img alt="Sowllz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SoolmazTorabi&custom_title=SoolmazTorabi's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a>
 </div>
 
 <h2>⚡ Skills</h2>
